@@ -1,0 +1,1 @@
+SELECT* FROM "AWSDataCatalog"."trabajo2db"."15";
